@@ -9,7 +9,7 @@ import RsvpForm from './components/RsvpForm.vue'
 import FooterSection from './components/FooterSection.vue'
 
 onMounted(() => {
-  document.title = "Alex & Taylor's Wedding Invitation"
+  document.title = "Willy & Agnes's Wedding Invitation"
 })
 </script>
 

@@ -11,11 +11,11 @@
           <div class="person-image">
             <div class="image-frame">
               <div class="person-placeholder">
-                <span>Alex</span>
+                <span>Willy</span>
               </div>
             </div>
           </div>
-          <h3 class="person-name">Alexander Chen</h3>
+          <h3 class="person-name">Willy</h3>
           <p class="person-title">Software Engineer</p>
         </div>
 
@@ -29,11 +29,11 @@
           <div class="person-image">
             <div class="image-frame">
               <div class="person-placeholder">
-                <span>Taylor</span>
+                <span>Agnes</span>
               </div>
             </div>
           </div>
-          <h3 class="person-name">Taylor Morgan</h3>
+          <h3 class="person-name">Agnes</h3>
           <p class="person-title">UX Designer</p>
         </div>
       </div>

@@ -4,9 +4,9 @@
     <div class="hero-container">
       <div class="glitch-text" data-text="WE ARE GETTING MARRIED">WE ARE GETTING MARRIED</div>
       <h1 class="hero-title">
-        <span class="gradient-text">Alex</span>
+        <span class="gradient-text">Willy</span>
         <span class="ampersand">&</span>
-        <span class="gradient-text">Taylor</span>
+        <span class="gradient-text">Agnes</span>
       </h1>
       <p class="hero-subtitle">invite you to witness our love story</p>
       <div class="hero-date">

@@ -4,16 +4,16 @@
       <div class="footer-content">
         <div class="footer-brand">
           <div class="footer-logo">
+            <span class="gradient-text">W</span>
+            <span class="gradient-text">&</span>
             <span class="gradient-text">A</span>
-            <span class="gradient-text">+</span>
-            <span class="gradient-text">T</span>
           </div>
           <p>We're getting married</p>
         </div>
 
         <div class="footer-links">
           <a href="https://github.com/username" class="footer-link" target="_blank">GitHub</a>
-          <a href="mailto:contact@alexandtaylor.com" class="footer-link">Email</a>
+          <a href="mailto:contact@willyandagnes.com" class="footer-link">Email</a>
         </div>
 
         <div class="footer-social">
@@ -33,7 +33,7 @@
       </div>
 
       <div class="footer-bottom">
-        <p>&copy; 2025 Alex &amp; Taylor. All rights reserved.</p>
+        <p>&copy; 2025 Willy &amp; Agnes. All rights reserved.</p>
       </div>
     </div>
   </footer>
